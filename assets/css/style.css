@@ -1369,6 +1369,19 @@ footer .others a:hover{
         font-size: 1.5rem;
     }
 
+    header .logo{
+        width: 6rem;
+        height: 6rem;
+    }
+
+    header .logo h1{
+        font-size: 1.4rem;
+    }
+
+    .menu .openning-menu{
+        width: 3.5rem;
+    }
+
     .services .service-badges, .facts .facts-numbers{
         min-width: 100%;
     }
@@ -1436,6 +1449,7 @@ footer .others a:hover{
 @media screen and (max-width: 400px){
     .main-banner .slide-title{
         font-size: 2.5rem;
+        letter-spacing: 0.5rem;
     }
     
     .main-banner .slide-desc{
